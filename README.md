@@ -1,4 +1,4 @@
-# Second Portfolio
+# Updated-Portfolio
 
 ## Table of contents
 
@@ -9,18 +9,19 @@
 
 ## Description
 
-This is an updated portfolio that includes my about, previous projects/homework and my my most current resume and contact info.
+This is an updated portfolio that includes my about, previous projects/homework and my my most current resume and contact info. 
 
 
 ## Technologies Used
 
 - HTML
 - CSS
-- BOOTSTRAP
-- JAVASCRIPT
+- Javascript
+- Bootstrap Themes
 
 
 ## Demo
 
-![Updated Portfolio](assets/img/updated-portfolio.gif )
+Link: [Updated-Portfolio](https://nasrah1.github.io/Updated-Portfolio/)
 
+![Updated-Portfolio](assets/img/portfolio/updated-portfolio.gif)
